@@ -1,0 +1,97 @@
+.product-img{
+	float: left;
+    height: 727px;
+    margin-top: 27px;
+    margin-left: 140px;
+}
+.details{
+	padding: 84px;
+}
+.type{
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	color: #358ed7;
+}
+.name{
+    margin-top: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    
+}
+.name p{
+    font-size: 52px;
+    color: #43484d;
+}
+.description{
+	margin-top: 22px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #86939e;
+}
+.color{
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 400;
+	 font-size: 14px;
+	 color: #86939e;
+}
+.btn-circle{
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  border: 1px solid #a7a4b6;
+}
+.btn-outline-dark {
+  border: 1px solid #a7a4b6;
+  font-size: 14px;
+  height: 50px;
+  width: 100px;
+ }
+.color-btn{
+	margin-top: 12px;
+}
+.red{
+  background-color: #c91524;
+}
+.blue{
+	background-color: #314780;
+	margin-left: 11px;
+}
+.black{
+	background-color: #323232;
+	margin-left: 11px;
+}
+.cable-config{
+	margin-top: 20px;
+}
+.cable-config h6{
+     font-family: 'Roboto', sans-serif;
+	 font-weight: 400;
+	 font-size: 14px;
+	 color: #86939e;
+}
+.cable-type{
+	margin-top: 26px;
+}
+.help{
+	margin-top: 25px;
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 400;
+	 font-size: 12px;
+	 color: #358ed7; 
+	 text-decoration: underline black;	
+}
+.price-amt{
+	margin-top: 35px;
+}
+.price-amt span{
+	margin-top: 30px;
+	font-family: 'Roboto', sans-serif;
+	 font-weight: 300;
+	 font-size: 26px;
+	 color: #43474d;
+}
+.price-amt button{
+	margin-left: 19px;
+    padding: 11px;
+    width: 153px;
+}
